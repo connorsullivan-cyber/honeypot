@@ -20,7 +20,7 @@ In this project I will be downloading, installing and deploying a honeypot using
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+
 <b>Launch the honeypot:</b> <br/>
 
 <img src="https://i.imgur.com/Pk7kJCH.jpg" height="80%" width="80%" alt="Launch honeypot"/>
